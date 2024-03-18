@@ -1,0 +1,21 @@
+*{
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    border: #ff0000 dashed 5px;
+    margin: 30px 0;
+    padding: 30px;
+    text-align: center;
+}
+
+footer{
+    background-color: #555555;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.produto-item{
+    color: #b60f0f;
+    font-weight: bold;
+}
